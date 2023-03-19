@@ -32,7 +32,7 @@ app.post('/translate', function (req, res) {
 
 app.listen(process.env.PORT || 3000, function () {
   console.log(`Server started on port ${process.env.PORT || 3000}`);
-});
+}); //http://localhost:3000 에서 확인하실 수 있습니다.
 
 app.use(express.static(path.join(__dirname, 'react-project/build')));
 
