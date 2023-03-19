@@ -10,6 +10,7 @@ This is a website that provides translation results using the Papago API.
 Clone this repository.
 ```sh
 git clone https://github.com/khw-dev/atoga
+cd atoga
 ```
 
 Install dependencies.
