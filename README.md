@@ -18,7 +18,7 @@ Install dependencies.
 npm install
 ```
 
-Change the .env file to your own papago id and secret.
+Change the .env file to your own Papago api id and secret.
 ```env
 PAPAGO_ID=your_id_here
 PAPAGO_SECRET=your_secret_here
