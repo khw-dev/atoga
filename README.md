@@ -30,7 +30,7 @@ node server.js
 ```
 
 ## Source
-The NanumSquare_aceB font contained in this repository is copyrighted by Naver.
+The NanumSquare_aceB font contained in this repository and papago api  copyrighted by Naver.
 
 ## Contributing
 If you find a bug or want to suggest a new feature, you can create an issue on GitHub or submit a pull request.
